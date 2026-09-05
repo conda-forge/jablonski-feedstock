@@ -1,5 +1,5 @@
 context:
-  version: "0.3.1"
+  version: "0.4.0"
   python_min: '3.12'
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jablonski/jablonski-${{ version }}.tar.gz
-  sha256: 1a55ae19d4c34f6d375996305e26e870206067686eb854d30eb364e7aa6c6b85
+  sha256: 65b072478d3b25759eecec3ed51957475fccd24c0121e74e9fb0e64ad20f781e
 
 build:
   noarch: python
